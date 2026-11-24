@@ -1,0 +1,8 @@
+{
+  "name": "opas-smartguide-connected-demo",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix Simulated-OPAS run dev",
+    "dev:smartguide": "npm --prefix OPAS-SmartGuide run dev"
+  }
+}
